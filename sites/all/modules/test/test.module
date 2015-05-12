@@ -2,5 +2,6 @@
 
 function test_init() {
   echo "HOLA";
+  print "ADIOS";
 }
 
